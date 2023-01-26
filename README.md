@@ -1,3 +1,3 @@
 # Readme
 
-Require pull request2
+Disable bypass
